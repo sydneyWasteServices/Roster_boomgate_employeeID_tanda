@@ -1,0 +1,40 @@
+EmployeeID_sal,Employee Name,Status,Employeed,Actual Workhous,Normal/Day,Normal/ Afternoon,Normal/Night,First 2hrs x1.5 Weekdays,`Any after x  2.0 Weekdays,First 2hrs x1.5 Saturday,`Any after  x  2.0 Saturday,`Any after  x  2.0 Sunday,PH 1.5%,PH 2.0%,PH 2.5%,PH3.0%(GD & CD),PH Casual,PH Casual Other (GD & CD),Total hours,Travel Allowance( Mon-Fri)12:30AM- 04:00AM Day Shift only,Unnamed: 21,Unnamed: 22,Unnamed: 23,First 2hrs x1.5 Saturday.1,`Any after  x  2.0 Saturday.1,lastname,firstname,middlename_sal,Name,EmployeeID_em,middlename_em
+swderjos,"Derkington , Josephine Natasha",Casual,Valet,15.0,14.2,0.0,0.0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,14.2,0,0,,,0.0,0.0,derkington,josephine,natasha,"Derkington, Josephine Natasha",swderjos,natasha
+swharbob,"Hartanto , Boby",Casual,Valet,36.5,21.299999999999997,0.0,0.0,0.0,0.0,2,5.1,6.1,0,0,0,0,0,0,34.5,0,,,,2.0,5.1,hartanto,boby,nomiddlename,"Hartanto, Boby",swharbob,nomiddlename
+swaklado,"Akl, Adonis",Fulltime,Adriver,56.750000000000014,0.0,0.0,38.0,10.0,4.25,0,0.0,0.0,0,0,0,0,0,0,52.25,0,0,54.75000000000001,0.0,0.0,0.0,akl,adonis,nomiddlename,"Akl, Adonis",swakladon,nomiddlename
+swbaichr,"Bailey , Christopher",Casual,Driver,49.5,30.25,0.0,0.0,8.5,0.75,2,5.6,0.0,0,0,0,0,0,0,47.1,5,0,,,2.0,5.6,bailey,christopher,nomiddlename,"Bailey, Christopher Andrew",swbaichr,andrew
+swedwben,"Edwards, Benjamin John",Full Time,Driver,46.0,38.0,0.0,0.0,8.0,0.25,0,0.0,0.0,0,0,0,0,0,0,46.25,5,0,,,0.0,0.0,edwards,benjamin,john,"Edwards, Benjamin John",swedwben,john
+swfiejoh,"Field , John Scott",Casual,Driver,33.75,30.4,0.0,0.0,1.75,0.0,0,0.0,0.0,0,0,0,0,0,0,32.15,2,0,,,,,field,john,scott,"Field, John Scott",swfiejih,scott
+swjusjoh,"Justice , John Alexander",Casual,Driver,54.75,37.25,0.0,0.0,3.5,0.0,0,0.0,11.1,0,0,0,0,0,0,51.85,3,0,,,0.0,0.0,justice,john,alexander,"Justice, John Alexander",swjusjoh,alexander
+swkumavi,"Kumar , Avikash",casual,Driver,7.25,0.0,0.0,0.0,0.0,0.0,0,0.0,6.85,0,0,0,0,0,0,6.85,0,0,,,0.0,0.0,kumar,avikash,nomiddlename,"Kumar, Avikash",swkuma,nomiddlename
+swliqi,"Li , Qi Ricky",casual,Driver,33.75,31.25,0.0,0.0,0.5,0.0,0,0.0,0.0,0,0,0,0,0,0,31.75,0,0,,,31.749999999999993,0.0,li,qi,ricky,"Li, Qi (Ricky)",swliqi,(ricky)
+swmeddav,"Medina , David",Casual,Driver,17.5,10.7,0.0,0.0,6.0,0.0,0,0.0,0.0,0,0,0,0,0,0,16.7,3,0,,,0.0,0.0,medina,david,nomiddlename,"Medina, David Fernando",swmedd,fernando
+swmittai,"Mitchell , Tait Brendan",Casual,Driver,58.75,38.0,0.0,0.0,9.5,3.0,2,2.75,0.0,0,0,0,0,0,0,55.25,5,,,,,,mitchell,tait,brendan,"Mitchell, Tait Brendan",swmittai,brendan
+swmoylou,"Moylan , Lou",Full Time,Driver,53.75,30.4,0.0,0.0,8.0,4.75,2,7.35,0.0,0,0,0,0,0,0,52.5,4,0,,,51.35,2.0,moylan,lou,nomiddlename,"Moylan, Lou",swmoylou,nomiddlename
+swrigdav,"Right , David ",Casual,Driver,52.75,31.0,0.0,0.0,7.5,3.5,2,5.85,0.0,0,0,0,0,0,0,49.85,5,0,,,0.0,0.0,right,david,nomiddlename,"Right, David Michael",swrigda,michael
+swrobgar,"Roberts , Gary",Full Time,Driver,28.75,22.799999999999997,0.0,0.0,5.25,0.0,0,0.0,0.0,0,0,0,0,0,0,28.049999999999997,3,2 a/l,,,26.35,0.0,roberts,gary,nomiddlename,"Roberts, Gary",swrobgar,nomiddlename
+swshekev,"Sheather , Keven John",Casual,Driver,53.0,0.0,0.0,38.0,10.0,1.0,0,0.0,0.0,0,0,0,0,0,0,49.0,0,0,,,51.0,0.0,sheather,keven,john,"Sheather, Keven John",swshekev,john
+swsinvic,"Singh , Victor",Full Time,Driver,43.5,22.799999999999997,0.0,0.0,6.0,3.5,2,6.6,0.0,0,0,0,0,0,0,40.9,3,2 a/l,,,41.9,2.0,singh,victor,nomiddlename,"Singh, Victor",swsinvic,nomiddlename
+swtaujul,"Taurima , Julian",Casual,Driver ,56.5,31.75,0.0,0.0,10.0,10.75,0,0.0,0.0,0,0,0,0,0,0,52.5,5,0,,,54.5,0.0,taurima,julian,nomiddlename,"Taurima, Julian Lee",swtaujul,lee
+swtubjoh,"Tubuaitua , John Hafa",casual,Driver,62.5,36.5,0.0,0.0,7.75,4.25,2,8.1,0.0,0,0,0,0,0,0,58.6,5,0,,,60.1,2.0,tubuaitua,john,hafa,"Tubuaitua, John Hafa",swtubjoh,hafa
+swwarrob,"Ward, Robert",Full time,Driver,54.25,38.0,0.0,0.0,10.0,0.0,2,4.1,0.0,0,0,0,0,0,0,54.1,5,0,,,51.85,2.0,ward,robert,nomiddlename,"Ward, Robert James",swwarrob,james
+swburl,"Burgess, Leigh",Fulltime,Driver,46.25,38.0,0.0,0.0,7.6,0.15000000000000036,0,0.0,0.0,0,0,0,0,0,0,45.75,5,0,,,0.0,0.0,burgess,leigh,nomiddlename,"Burgess, Leigh Scott",swburlei,scott
+swbranat,"Bracey, Nathan John",Full time,Driver,45.75,38.0,0.0,0.0,8.4,0.3000000000000004,0,0.0,0.0,0,0,0,0,0,0,46.699999999999996,4,0,,,0.0,0.0,bracey,nathan,john,"Bracey, Nathan John",swbranat,john
+swdinvie,"Dinh, Viet Hong Phuoc",Full time,Driver,51.75,0.0,15.2,22.799999999999997,4.15,0.3000000000000004,0,0.0,9.75,0,0,0,0,0,0,52.199999999999996,0,0,0.0,0.0,0.0,0.0,dinh,viet,hong,"Dinh, Viet Hong Phuoc",swdinvie,hong
+swdoalb,"Do , Albertran",Full Time,Driver,48.0,38.0,0.0,0.0,8.200000000000001,0.8000000000000007,0,0.0,0.0,0,0,0,0,0,0,47.0,5,0,0.0,0.0,0.0,0.0,do,albertran,nomiddlename,"Do, Albertran",swdoalb,nomiddlename
+xia,"Fei , Xiaohua",Full Time,Labour,41.0,38.0,0.0,0.0,1.0,0.0,0,0.0,0.0,0,0,0,0,0,0,39.0,0,0,,,0.0,0.0,fei,xiaohua,nomiddlename,"Fei, Xiaohua",swfeixia,nomiddlename
+swgooowe,"Goodwin , Owen John",Casual,Driver ,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0, Chil Support $173.51 L6- $1779.09 F/L-0,,,0.0,0.0,goodwin,owen,john,"Goodwin, Owen John",swgooowe,john
+sw6,"Hearn, Ray",Full Time,Driver,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,5 a/l,,,0.0,0.0,hearn,ray,nomiddlename,"Hearn, Ray",swhearay,nomiddlename
+swhewg,"Hewitt , Gabriella",Full Time,Driver,51.5,38.0,0.0,0.0,9.5,3.6000000000000005,0,0.0,0.0,0,0,0,0,0,0,51.1,5,0,,,0.0,0.0,hewitt,gabriella,nomiddlename,"Hewitt, Gabriella",swhewg,nomiddlename
+swlip,"Liu , Phillip",Full Time,Driver,67.75,38.0,0.0,0.0,10.0,7.000000000000002,2,7.75,0.0,0,0,0,0,0,0,64.75,5,0,,,2.0,7.75,liu,phillip,nomiddlename,"Liu, Phillip",swlip,nomiddlename
+swlocb,"Locke , Brad",Full Time,Driver,20.0,16.0,0.0,0.0,4.0,2.0,0,0.0,0.0,0,0,0,0,0,0,22.0,2,W/C,,,0.0,0.0,locke,brad,nomiddlename,"Locke, Brad",swlocbra,nomiddlename
+swnevpj,"Nevin, Paul",Full Time,Driver,67.25,0.0,0.0,38.0,10.0,5.750000000000002,0,0.0,10.5,0,0,0,0,0,0,64.25,0,0,,,0.0,0.0,nevin,paul,nomiddlename,"Nevin, Paul John",swnevpj,john
+sw,"Roberts, Greg",Full Time,Driver,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,,,0.0,0.0,roberts,greg,nomiddlename,,,
+swtupfek,"Tupou, Fekefekaiatu",Full Time,Driver ,63.25,40.0,0.0,0.0,10.0,3.75,2,7.75,0.0,0,0,0,0,0,0,63.5,5,0,,,2.0,7.75,tupou,fekefekaiatu,nomiddlename,"Tupou, Fekefekaiatu",swtupfek,nomiddlename
+swwhinei,"White , Neil John",Fulltime,driver,53.25,38.0,0.0,0.0,10.0,3.750000000000001,0,0.0,0.0,0,0,0,0,0,0,51.75,5,0,,,0.0,0.0,white,neil,john,"White, Neil John",swwhinei,john
+ir12,"Boland, Luke",Full Time,Driver,43.0,0.0,0.0,40.0,5.0,0.25,0,0.0,0.0,0,0,0,0,0,0,45.25,0,0,0.0,0.0,,,boland,luke,nomiddlename,"Boland, Luke",ir12,nomiddlename
+irdeaz,"Dean, zaheer",full time,Driver,54.25,38.0,0.0,0.0,8.45,1.0500000000000007,2,3.75,0.0,0,0,0,0,0,0,53.25,5,0,2.0,3.75,,,dean,zaheer,nomiddlename,"Dean, Zaheer Attaul Islam",irdeaz,attaul
+ir2,"Ruhr, johann",Full time,Driver,0.0,38.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,38.0,0,0,0.0,0.0,,,ruhr,johann,nomiddlename,"Ruhr, Johann Otto",ir02,otto
+ir20,"Te Ture, Tom",Full time,Driver,52.0,0.0,0.0,38.0,9.9,2.600000000000001,0,0.0,0.0,0,0,0,0,0,0,50.5,0,0,0.0,0.0,,,ture,tom,nomiddlename,"Te Ture, Tom",ir20,nomiddlename
+swiftdinvie,"Dinh, Viet Hong Phuoc",Full time,Driver,51.75,0.0,15.2,22.799999999999997,4.15,0.3000000000000004,0,0.0,9.75,0,0,0,0,0,0,52.199999999999996,0,0,0.0,0.0,,,dinh,viet,hong,"Dinh, Viet Hong Phuoc",swdinvie,hong
+swdoalb,"Do , Albertran",Full Time,Driver,48.0,38.0,0.0,0.0,8.200000000000001,0.8000000000000007,0,0.0,0.0,0,0,0,0,0,0,47.0,5,0,0.0,0.0,,,do,albertran,nomiddlename,"Do, Albertran",swdoalb,nomiddlename
